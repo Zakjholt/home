@@ -6,14 +6,13 @@ body {
     font-family: 'Open Sans', sans-serif;
     margin-top: 56px;
     box-sizing: border-box;
-    width: 90%;
     background: #222;
 }
 
 nav {
     background: #454545;
     position: fixed;
-    width: 90%;
+    width: 100%;
     top: 0;
     
 }
