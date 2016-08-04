@@ -7,12 +7,23 @@ body {
     margin-top: 56px;
     box-sizing: border-box;
     background: #222;
+    max-width: 90%;
+}
+
+.icon {
+    position: absolute;
+    left: 5px;
+    top: 5px;
+    width: 25px;
+    border: 1px solid white;
+    border-radius: 100%;
+    padding: 5px;
 }
 
 nav {
     background: #454545;
     position: fixed;
-    width: 100%;
+    width: 90%;
     top: 0;
     
 }
