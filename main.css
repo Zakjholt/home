@@ -64,7 +64,7 @@ header {
     rgba(0, 0, 0, .5), 
     rgba(0, 0, 0, .5)
     ),
-    url("https://hd.unsplash.com/photo-1467173572719-f14b9fb86e5f");
+    url("background.jpg");
     background-size: cover;
     color: white;
 }
