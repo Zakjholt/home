@@ -58,9 +58,14 @@ header {
 h1, h3 {
     line-height: 1.25em;
 }
+
+h1 {
+    padding-top: 10px;
+}
+
 h3 {
     margin-bottom: 0;
-    padding-bottom: 7px
+    padding-bottom: 10px
 }
 
 p {
