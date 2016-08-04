@@ -109,8 +109,8 @@ section {
 .contact li {
     display: inline-block;
     margin: 0 10px;
-    padding: 5px 10px;
-    border-radius: 2%;
+    padding: 10px;
+    border-radius: 5%;
 }
 
 .email-link {
