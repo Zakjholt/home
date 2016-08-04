@@ -69,25 +69,30 @@ p {
 }
 
 section {
-    padding-top: 5px;
-    height: 640px;
-}
-
-#portfolio {
-    background: #783344;
-}
-
-#about {
-    background: #33aaaa;
+    padding-top: 60px;
+    padding-bottom: 60px;
 }
 
 #contact {
+    background: #ba9;
+    background: rgba(200, 50, 70, .3);
+    color: #cecece;
+}
+
+#portfolio {
+    background: #558b8b;
+    background: rgba(100, 200, 200, .3);
+    color: #cecece;
+}
+
+#about {
     background: #2255bb;
+    background: rgba(50, 100, 200, .3);
+    color: #cecece
 }
 
 .contact {
     padding-left: 0;
-    padding-bottom: 20px
 }
 
 .contact li {
